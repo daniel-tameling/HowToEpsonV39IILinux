@@ -1,0 +1,348 @@
+[2024/03/28 21:35:19.760][epsonscan2      ][DbgLog.cpp                                   ; 569][P7CDbgLog                                    ][0000180F][-ERROR-] LoadModule Path:[/usr/bin/epsonscan2] Ver:[1.0.0]
+[2024/03/28 21:35:20.041][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 7531 PID = 3
+[2024/03/28 21:35:20.041][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 1118 PID = 219
+[2024/03/28 21:35:20.041][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 1578 PID = 29219
+[2024/03/28 21:35:20.041][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 7531 PID = 2
+[2024/03/28 21:35:20.041][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 7531 PID = 3
+[2024/03/28 21:35:20.041][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 1208 PID = 319
+[2024/03/28 21:35:20.046][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4363 productIDAsString = 110B 
+[2024/03/28 21:35:20.047][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2248 productIDAsString = 08C8 
+[2024/03/28 21:35:20.048][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2248 productIDAsString = 08C8 
+[2024/03/28 21:35:20.049][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4424 productIDAsString = 1148 
+[2024/03/28 21:35:20.050][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4424 productIDAsString = 1148 
+[2024/03/28 21:35:20.051][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4432 productIDAsString = 1150 
+[2024/03/28 21:35:20.052][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4432 productIDAsString = 1150 
+[2024/03/28 21:35:20.053][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4432 productIDAsString = 1150 
+[2024/03/28 21:35:20.054][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4548 productIDAsString = 11C4 
+[2024/03/28 21:35:20.055][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4385 productIDAsString = 1121 
+[2024/03/28 21:35:20.056][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4385 productIDAsString = 1121 
+[2024/03/28 21:35:20.057][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4385 productIDAsString = 1121 
+[2024/03/28 21:35:20.058][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 310 productIDAsString = 0136 
+[2024/03/28 21:35:20.059][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 310 productIDAsString = 0136 
+[2024/03/28 21:35:20.060][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4362 productIDAsString = 110A 
+[2024/03/28 21:35:20.061][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4501 productIDAsString = 1195 
+[2024/03/28 21:35:20.062][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4421 productIDAsString = 1145 
+[2024/03/28 21:35:20.063][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4422 productIDAsString = 1146 
+[2024/03/28 21:35:20.064][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 307 productIDAsString = 0133 
+[2024/03/28 21:35:20.065][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 307 productIDAsString = 0133 
+[2024/03/28 21:35:20.066][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 390 productIDAsString = 0186 
+[2024/03/28 21:35:20.067][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 36 productIDAsString = 0024 
+[2024/03/28 21:35:20.068][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 364 productIDAsString = 016C 
+[2024/03/28 21:35:20.069][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4521 productIDAsString = 11A9 
+[2024/03/28 21:35:20.070][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4544 productIDAsString = 11C0 
+[2024/03/28 21:35:20.072][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4544 productIDAsString = 11C0 
+[2024/03/28 21:35:20.073][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4442 productIDAsString = 115A 
+[2024/03/28 21:35:20.074][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4442 productIDAsString = 115A 
+[2024/03/28 21:35:20.075][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 393 productIDAsString = 0189 
+[2024/03/28 21:35:20.076][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2240 productIDAsString = 08C0 
+[2024/03/28 21:35:20.077][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2240 productIDAsString = 08C0 
+[2024/03/28 21:35:20.078][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2242 productIDAsString = 08C2 
+[2024/03/28 21:35:20.079][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2242 productIDAsString = 08C2 
+[2024/03/28 21:35:20.080][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 380 productIDAsString = 017C 
+[2024/03/28 21:35:20.081][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4418 productIDAsString = 1142 
+[2024/03/28 21:35:20.082][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4436 productIDAsString = 1154 
+[2024/03/28 21:35:20.083][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4459 productIDAsString = 116B 
+[2024/03/28 21:35:20.084][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4489 productIDAsString = 1189 
+[2024/03/28 21:35:20.085][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4494 productIDAsString = 118E 
+[2024/03/28 21:35:20.086][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4539 productIDAsString = 11BB 
+[2024/03/28 21:35:20.087][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4440 productIDAsString = 1158 
+[2024/03/28 21:35:20.088][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4440 productIDAsString = 1158 
+[2024/03/28 21:35:20.089][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4440 productIDAsString = 1158 
+[2024/03/28 21:35:20.090][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 395 productIDAsString = 018B 
+[2024/03/28 21:35:20.091][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4497 productIDAsString = 1191 
+[2024/03/28 21:35:20.092][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4497 productIDAsString = 1191 
+[2024/03/28 21:35:20.093][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4379 productIDAsString = 111B 
+[2024/03/28 21:35:20.094][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4461 productIDAsString = 116D 
+[2024/03/28 21:35:20.095][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4461 productIDAsString = 116D 
+[2024/03/28 21:35:20.096][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4429 productIDAsString = 114D 
+[2024/03/28 21:35:20.097][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4429 productIDAsString = 114D 
+[2024/03/28 21:35:20.098][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4403 productIDAsString = 1133 
+[2024/03/28 21:35:20.099][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4488 productIDAsString = 1188 
+[2024/03/28 21:35:20.100][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4540 productIDAsString = 11BC 
+[2024/03/28 21:35:20.101][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2237 productIDAsString = 08BD 
+[2024/03/28 21:35:20.102][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2237 productIDAsString = 08BD 
+[2024/03/28 21:35:20.103][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 312 productIDAsString = 0138 
+[2024/03/28 21:35:20.104][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 312 productIDAsString = 0138 
+[2024/03/28 21:35:20.105][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 385 productIDAsString = 0181 
+[2024/03/28 21:35:20.106][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4524 productIDAsString = 11AC 
+[2024/03/28 21:35:20.107][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4520 productIDAsString = 11A8 
+[2024/03/28 21:35:20.108][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4427 productIDAsString = 114B 
+[2024/03/28 21:35:20.109][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4531 productIDAsString = 11B3 
+[2024/03/28 21:35:20.110][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2233 productIDAsString = 08B9 
+[2024/03/28 21:35:20.111][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2233 productIDAsString = 08B9 
+[2024/03/28 21:35:20.112][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 388 productIDAsString = 0184 
+[2024/03/28 21:35:20.114][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 394 productIDAsString = 018A 
+[2024/03/28 21:35:20.115][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2213 productIDAsString = 08A5 
+[2024/03/28 21:35:20.116][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2213 productIDAsString = 08A5 
+[2024/03/28 21:35:20.117][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 347 productIDAsString = 015B 
+[2024/03/28 21:35:20.118][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 347 productIDAsString = 015B 
+[2024/03/28 21:35:20.119][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4446 productIDAsString = 115E 
+[2024/03/28 21:35:20.120][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2256 productIDAsString = 08D0 
+[2024/03/28 21:35:20.121][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2256 productIDAsString = 08D0 
+[2024/03/28 21:35:20.122][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 370 productIDAsString = 0172 
+[2024/03/28 21:35:20.123][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2254 productIDAsString = 08CE 
+[2024/03/28 21:35:20.124][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2254 productIDAsString = 08CE 
+[2024/03/28 21:35:20.125][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4468 productIDAsString = 1174 
+[2024/03/28 21:35:20.126][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4468 productIDAsString = 1174 
+[2024/03/28 21:35:20.127][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2201 productIDAsString = 0899 
+[2024/03/28 21:35:20.128][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2201 productIDAsString = 0899 
+[2024/03/28 21:35:20.129][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 368 productIDAsString = 0170 
+[2024/03/28 21:35:20.130][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4552 productIDAsString = 11C8 
+[2024/03/28 21:35:20.131][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4552 productIDAsString = 11C8 
+[2024/03/28 21:35:20.132][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 392 productIDAsString = 0188 
+[2024/03/28 21:35:20.134][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 387 productIDAsString = 0183 
+[2024/03/28 21:35:20.135][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 337 productIDAsString = 0151 
+[2024/03/28 21:35:20.136][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 337 productIDAsString = 0151 
+[2024/03/28 21:35:20.137][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2227 productIDAsString = 08B3 
+[2024/03/28 21:35:20.138][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2227 productIDAsString = 08B3 
+[2024/03/28 21:35:20.139][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4480 productIDAsString = 1180 
+[2024/03/28 21:35:20.140][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 316 productIDAsString = 013C 
+[2024/03/28 21:35:20.141][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4414 productIDAsString = 113E 
+[2024/03/28 21:35:20.142][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 333 productIDAsString = 014D 
+[2024/03/28 21:35:20.143][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 333 productIDAsString = 014D 
+[2024/03/28 21:35:20.144][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4409 productIDAsString = 1139 
+[2024/03/28 21:35:20.145][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 398 productIDAsString = 018E 
+[2024/03/28 21:35:20.146][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 398 productIDAsString = 018E 
+[2024/03/28 21:35:20.147][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4509 productIDAsString = 119D 
+[2024/03/28 21:35:20.148][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4434 productIDAsString = 1152 
+[2024/03/28 21:35:20.149][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4378 productIDAsString = 111A 
+[2024/03/28 21:35:20.150][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4381 productIDAsString = 111D 
+[2024/03/28 21:35:20.151][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4381 productIDAsString = 111D 
+[2024/03/28 21:35:20.152][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 330 productIDAsString = 014A 
+[2024/03/28 21:35:20.153][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 330 productIDAsString = 014A 
+[2024/03/28 21:35:20.154][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2231 productIDAsString = 08B7 
+[2024/03/28 21:35:20.155][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2231 productIDAsString = 08B7 
+[2024/03/28 21:35:20.156][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2236 productIDAsString = 08BC 
+[2024/03/28 21:35:20.157][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2236 productIDAsString = 08BC 
+[2024/03/28 21:35:20.158][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4412 productIDAsString = 113C 
+[2024/03/28 21:35:20.159][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4412 productIDAsString = 113C 
+[2024/03/28 21:35:20.160][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4395 productIDAsString = 112B 
+[2024/03/28 21:35:20.160][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4395 productIDAsString = 112B 
+[2024/03/28 21:35:20.161][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4395 productIDAsString = 112B 
+[2024/03/28 21:35:20.162][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2230 productIDAsString = 08B6 
+[2024/03/28 21:35:20.163][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2230 productIDAsString = 08B6 
+[2024/03/28 21:35:20.164][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 363 productIDAsString = 016B 
+[2024/03/28 21:35:20.165][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4469 productIDAsString = 1175 
+[2024/03/28 21:35:20.167][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4469 productIDAsString = 1175 
+[2024/03/28 21:35:20.168][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4469 productIDAsString = 1175 
+[2024/03/28 21:35:20.169][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 361 productIDAsString = 0169 
+[2024/03/28 21:35:20.170][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4479 productIDAsString = 117F 
+[2024/03/28 21:35:20.171][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4479 productIDAsString = 117F 
+[2024/03/28 21:35:20.172][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4479 productIDAsString = 117F 
+[2024/03/28 21:35:20.173][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4487 productIDAsString = 1187 
+[2024/03/28 21:35:20.174][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4376 productIDAsString = 1118 
+[2024/03/28 21:35:20.175][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 405 productIDAsString = 0195 
+[2024/03/28 21:35:20.176][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4361 productIDAsString = 1109 
+[2024/03/28 21:35:20.177][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4361 productIDAsString = 1109 
+[2024/03/28 21:35:20.178][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4476 productIDAsString = 117C 
+[2024/03/28 21:35:20.180][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 401 productIDAsString = 0191 
+[2024/03/28 21:35:20.181][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4419 productIDAsString = 1143 
+[2024/03/28 21:35:20.182][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4419 productIDAsString = 1143 
+[2024/03/28 21:35:20.183][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4364 productIDAsString = 110C 
+[2024/03/28 21:35:20.184][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4507 productIDAsString = 119B 
+[2024/03/28 21:35:20.185][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4383 productIDAsString = 111F 
+[2024/03/28 21:35:20.186][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4445 productIDAsString = 115D 
+[2024/03/28 21:35:20.187][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4445 productIDAsString = 115D 
+[2024/03/28 21:35:20.187][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2244 productIDAsString = 08C4 
+[2024/03/28 21:35:20.188][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2172 productIDAsString = 087C 
+[2024/03/28 21:35:20.189][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2172 productIDAsString = 087C 
+[2024/03/28 21:35:20.190][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4377 productIDAsString = 1119 
+[2024/03/28 21:35:20.191][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 389 productIDAsString = 0185 
+[2024/03/28 21:35:20.192][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4467 productIDAsString = 1173 
+[2024/03/28 21:35:20.193][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4467 productIDAsString = 1173 
+[2024/03/28 21:35:20.194][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4465 productIDAsString = 1171 
+[2024/03/28 21:35:20.195][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 340 productIDAsString = 0154 
+[2024/03/28 21:35:20.196][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4527 productIDAsString = 11AF 
+[2024/03/28 21:35:20.198][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4527 productIDAsString = 11AF 
+[2024/03/28 21:35:20.199][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4527 productIDAsString = 11AF 
+[2024/03/28 21:35:20.200][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4547 productIDAsString = 11C3 
+[2024/03/28 21:35:20.201][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4519 productIDAsString = 11A7 
+[2024/03/28 21:35:20.202][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 377 productIDAsString = 0179 
+[2024/03/28 21:35:20.203][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4423 productIDAsString = 1147 
+[2024/03/28 21:35:20.204][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 396 productIDAsString = 018C 
+[2024/03/28 21:35:20.205][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4538 productIDAsString = 11BA 
+[2024/03/28 21:35:20.206][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4485 productIDAsString = 1185 
+[2024/03/28 21:35:20.207][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4485 productIDAsString = 1185 
+[2024/03/28 21:35:20.208][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4435 productIDAsString = 1153 
+[2024/03/28 21:35:20.209][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 369 productIDAsString = 0171 
+[2024/03/28 21:35:20.211][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 383 productIDAsString = 017F 
+[2024/03/28 21:35:20.212][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 341 productIDAsString = 0155 
+[2024/03/28 21:35:20.213][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4402 productIDAsString = 1132 
+[2024/03/28 21:35:20.214][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4528 productIDAsString = 11B0 
+[2024/03/28 21:35:20.215][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 408 productIDAsString = 0198 
+[2024/03/28 21:35:20.216][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4387 productIDAsString = 1123 
+[2024/03/28 21:35:20.217][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2223 productIDAsString = 08AF 
+[2024/03/28 21:35:20.218][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2223 productIDAsString = 08AF 
+[2024/03/28 21:35:20.219][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4517 productIDAsString = 11A5 
+[2024/03/28 21:35:20.220][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4508 productIDAsString = 119C 
+[2024/03/28 21:35:20.221][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4373 productIDAsString = 1115 
+[2024/03/28 21:35:20.222][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4499 productIDAsString = 1193 
+[2024/03/28 21:35:20.223][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4499 productIDAsString = 1193 
+[2024/03/28 21:35:20.224][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4499 productIDAsString = 1193 
+[2024/03/28 21:35:20.225][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4505 productIDAsString = 1199 
+[2024/03/28 21:35:20.226][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2239 productIDAsString = 08BF 
+[2024/03/28 21:35:20.227][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2239 productIDAsString = 08BF 
+[2024/03/28 21:35:20.228][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2253 productIDAsString = 08CD 
+[2024/03/28 21:35:20.229][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2253 productIDAsString = 08CD 
+[2024/03/28 21:35:20.229][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4425 productIDAsString = 1149 
+[2024/03/28 21:35:20.230][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4463 productIDAsString = 116F 
+[2024/03/28 21:35:20.231][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4463 productIDAsString = 116F 
+[2024/03/28 21:35:20.232][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4463 productIDAsString = 116F 
+[2024/03/28 21:35:20.233][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4447 productIDAsString = 115F 
+[2024/03/28 21:35:20.234][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2247 productIDAsString = 08C7 
+[2024/03/28 21:35:20.235][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2247 productIDAsString = 08C7 
+[2024/03/28 21:35:20.236][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4406 productIDAsString = 1136 
+[2024/03/28 21:35:20.237][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4406 productIDAsString = 1136 
+[2024/03/28 21:35:20.238][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4546 productIDAsString = 11C2 
+[2024/03/28 21:35:20.240][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 402 productIDAsString = 0192 
+[2024/03/28 21:35:20.241][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4408 productIDAsString = 1138 
+[2024/03/28 21:35:20.242][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 343 productIDAsString = 0157 
+[2024/03/28 21:35:20.243][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 343 productIDAsString = 0157 
+[2024/03/28 21:35:20.244][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 343 productIDAsString = 0157 
+[2024/03/28 21:35:20.245][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 326 productIDAsString = 0146 
+[2024/03/28 21:35:20.246][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2224 productIDAsString = 08B0 
+[2024/03/28 21:35:20.247][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4411 productIDAsString = 113B 
+[2024/03/28 21:35:20.248][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2220 productIDAsString = 08AC 
+[2024/03/28 21:35:20.249][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4458 productIDAsString = 116A 
+[2024/03/28 21:35:20.250][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4482 productIDAsString = 1182 
+[2024/03/28 21:35:20.251][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4359 productIDAsString = 1107 
+[2024/03/28 21:35:20.252][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4359 productIDAsString = 1107 
+[2024/03/28 21:35:20.253][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4537 productIDAsString = 11B9 
+[2024/03/28 21:35:20.254][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4537 productIDAsString = 11B9 
+[2024/03/28 21:35:20.255][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4484 productIDAsString = 1184 
+[2024/03/28 21:35:20.256][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4428 productIDAsString = 114C 
+[2024/03/28 21:35:20.257][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4511 productIDAsString = 119F 
+[2024/03/28 21:35:20.258][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 358 productIDAsString = 0166 
+[2024/03/28 21:35:20.259][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 317 productIDAsString = 013D 
+[2024/03/28 21:35:20.260][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 317 productIDAsString = 013D 
+[2024/03/28 21:35:20.261][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2169 productIDAsString = 0879 
+[2024/03/28 21:35:20.262][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2169 productIDAsString = 0879 
+[2024/03/28 21:35:20.263][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4478 productIDAsString = 117E 
+[2024/03/28 21:35:20.264][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4478 productIDAsString = 117E 
+[2024/03/28 21:35:20.265][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4438 productIDAsString = 1156 
+[2024/03/28 21:35:20.266][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4394 productIDAsString = 112A 
+[2024/03/28 21:35:20.266][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4394 productIDAsString = 112A 
+[2024/03/28 21:35:20.267][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4394 productIDAsString = 112A 
+[2024/03/28 21:35:20.268][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 322 productIDAsString = 0142 
+[2024/03/28 21:35:20.269][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 322 productIDAsString = 0142 
+[2024/03/28 21:35:20.271][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 354 productIDAsString = 0162 
+[2024/03/28 21:35:20.272][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4369 productIDAsString = 1111 
+[2024/03/28 21:35:20.273][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 35 productIDAsString = 0023 
+[2024/03/28 21:35:20.274][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4453 productIDAsString = 1165 
+[2024/03/28 21:35:20.275][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4543 productIDAsString = 11BF 
+[2024/03/28 21:35:20.276][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4391 productIDAsString = 1127 
+[2024/03/28 21:35:20.277][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4391 productIDAsString = 1127 
+[2024/03/28 21:35:20.278][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 315 productIDAsString = 013B 
+[2024/03/28 21:35:20.279][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 407 productIDAsString = 0197 
+[2024/03/28 21:35:20.280][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 348 productIDAsString = 015C 
+[2024/03/28 21:35:20.281][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 376 productIDAsString = 0178 
+[2024/03/28 21:35:20.282][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4466 productIDAsString = 1172 
+[2024/03/28 21:35:20.283][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4413 productIDAsString = 113D 
+[2024/03/28 21:35:20.284][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 409 productIDAsString = 0199 
+[2024/03/28 21:35:20.286][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 367 productIDAsString = 016F 
+[2024/03/28 21:35:20.286][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2255 productIDAsString = 08CF 
+[2024/03/28 21:35:20.287][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2153 productIDAsString = 0869 
+[2024/03/28 21:35:20.288][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2153 productIDAsString = 0869 
+[2024/03/28 21:35:20.289][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4365 productIDAsString = 110D 
+[2024/03/28 21:35:20.290][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2218 productIDAsString = 08AA 
+[2024/03/28 21:35:20.291][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4496 productIDAsString = 1190 
+[2024/03/28 21:35:20.292][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4496 productIDAsString = 1190 
+[2024/03/28 21:35:20.293][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4512 productIDAsString = 11A0 
+[2024/03/28 21:35:20.294][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4512 productIDAsString = 11A0 
+[2024/03/28 21:35:20.295][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4504 productIDAsString = 1198 
+[2024/03/28 21:35:20.296][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4504 productIDAsString = 1198 
+[2024/03/28 21:35:20.297][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4443 productIDAsString = 115B 
+[2024/03/28 21:35:20.298][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2257 productIDAsString = 08D1 
+[2024/03/28 21:35:20.299][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2222 productIDAsString = 08AE 
+[2024/03/28 21:35:20.300][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2222 productIDAsString = 08AE 
+[2024/03/28 21:35:20.301][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4356 productIDAsString = 1104 
+[2024/03/28 21:35:20.302][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4449 productIDAsString = 1161 
+[2024/03/28 21:35:20.303][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4449 productIDAsString = 1161 
+[2024/03/28 21:35:20.304][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 356 productIDAsString = 0164 
+[2024/03/28 21:35:20.305][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4382 productIDAsString = 111E 
+[2024/03/28 21:35:20.306][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4526 productIDAsString = 11AE 
+[2024/03/28 21:35:20.307][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4398 productIDAsString = 112E 
+[2024/03/28 21:35:20.308][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4398 productIDAsString = 112E 
+[2024/03/28 21:35:20.309][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4462 productIDAsString = 116E 
+[2024/03/28 21:35:20.310][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4462 productIDAsString = 116E 
+[2024/03/28 21:35:20.312][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4462 productIDAsString = 116E 
+[2024/03/28 21:35:20.313][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 382 productIDAsString = 017E 
+[2024/03/28 21:35:20.314][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4486 productIDAsString = 1186 
+[2024/03/28 21:35:20.315][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4486 productIDAsString = 1186 
+[2024/03/28 21:35:20.316][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4486 productIDAsString = 1186 
+[2024/03/28 21:35:20.317][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4477 productIDAsString = 117D 
+[2024/03/28 21:35:20.318][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4536 productIDAsString = 11B8 
+[2024/03/28 21:35:20.319][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4536 productIDAsString = 11B8 
+[2024/03/28 21:35:20.320][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4493 productIDAsString = 118D 
+[2024/03/28 21:35:20.321][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4522 productIDAsString = 11AA 
+[2024/03/28 21:35:20.322][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 355 productIDAsString = 0163 
+[2024/03/28 21:35:20.323][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2173 productIDAsString = 087D 
+[2024/03/28 21:35:20.324][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 2173 productIDAsString = 087D 
+[2024/03/28 21:35:20.325][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4454 productIDAsString = 1166 
+[2024/03/28 21:35:20.326][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4545 productIDAsString = 11C1 
+[2024/03/28 21:35:20.327][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4389 productIDAsString = 1125 
+[2024/03/28 21:35:20.328][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 4389 productIDAsString = 1125 
+[2024/03/28 21:35:20.329][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 357 productIDAsString = 0165 
+[2024/03/28 21:35:20.330][epsonscan2      ][ModelInfo.cpp                                ;  61][GetModelIDFromProductID                      ][0000180F][-TRACE-] modelProductID = 319 productIDAsString = 013F 
+[2024/03/28 21:35:20.339][epsonscan2      ][ModelInfo.cpp                                ;  33][~ModelInfo                                   ][0000180F][-TRACE-] ModelInfo dispose
+[2024/03/28 21:35:20.345][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 7504 PID = 24868
+[2024/03/28 21:35:20.345][epsonscan2      ][UsbFinder.cpp                                ;  48][Start                                        ][0000180F][-TRACE-] USB device found VID = 7531 PID = 2
+[2024/03/28 21:35:30.926][epsonscan2      ][Controller.cpp                               ;  19][Controller                                   ][0000181C][-TRACE-] Enter
+[2024/03/28 21:35:30.937][epsonscan2      ][Scanner.cpp                                  ;  14][Scanner                                      ][0000181C][-TRACE-] Enter
+[2024/03/28 21:35:30.937][epsonscan2      ][Engine.cpp                                   ; 354][LoadSDModule                                 ][0000181C][-TRACE-] Enter
+[2024/03/28 21:35:30.939][epsonscan2      ][ES2CommandAPI.cpp                            ;  33][ESCreateScanner                              ][0000181C][-TRACE-] ENTER : ESCreateScanner
+[2024/03/28 21:35:30.940][epsonscan2      ][Engine.cpp                                   ; 371][LoadSDModule                                 ][0000181C][-TRACE-] Leave
+[2024/03/28 21:35:30.940][epsonscan2      ][Engine.cpp                                   ; 251][InitWithDeviceInfoDict                       ][0000181C][-TRACE-] Enter = {
+    "ConnectionSetting": [
+        {
+            "BUS_NUMBER": {
+                "int": 1
+            },
+            "ConnectType": {
+                "int": 3
+            },
+            "DEVICE_NUMBER": {
+                "int": 4
+            },
+            "InterpreterName": {
+                "string": "es2intif"
+            },
+            "PID": {
+                "int": 319
+            },
+            "VID": {
+                "int": 1208
+            }
+        }
+    ]
+}
+[2024/03/28 21:35:30.940][epsonscan2      ][ESScanner.cpp                                ; 128][SetConnection                                ][0000181C][-TRACE-] ENTER : SetConnection
+[2024/03/28 21:35:30.941][epsonscan2      ][Engine.cpp                                   ; 255][InitWithDeviceInfoDict                       ][0000181C][-TRACE-] Leave
+[2024/03/28 21:35:30.941][epsonscan2      ][Scanner.cpp                                  ;  24][Scanner                                      ][0000181C][-TRACE-] Leave
+[2024/03/28 21:35:30.941][epsonscan2      ][Controller.cpp                               ;  40][Controller                                   ][0000181C][-TRACE-] Leave
+[2024/03/28 21:35:30.941][epsonscan2      ][Controller.cpp                               ; 148][Open                                         ][0000181C][-TRACE-] Enter
+[2024/03/28 21:35:30.941][epsonscan2      ][Engine.cpp                                   ; 261][Open                                         ][0000181C][-TRACE-] Enter
+[2024/03/28 21:35:30.984][epsonscan2      ][ESCIAccessor.cpp                             ; 236][Open                                         ][0000181C][-TRACE-] ENTER : Open
+[2024/03/28 21:35:30.984][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 262][fork_                                        ][0000181C][-TRACE-] ENTER : fork_
+[2024/03/28 21:35:30.996][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 313][fork_                                        ][0000181C][-INFO.-] port = 34715
+[2024/03/28 21:35:30.996][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 256][connect_                                     ][0000181C][-TRACE-] connect_ success
+[2024/03/28 21:35:30.996][epsonscan2      ][ipc_interrupt.hpp                            ;  47][start                                        ][0000181C][-TRACE-] ENTER : start
+[2024/03/28 21:35:30.997][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 142][Open                                         ][0000181C][-TRACE-] sem_key = 30
+[2024/03/28 21:35:30.997][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 350][open_                                        ][0000181C][-TRACE-] ENTER : open_
+[2024/03/28 21:35:30.997][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 342][recv_reply                                   ][0000181C][-ERROR-] recv_reply err.(-1, 1, n)
+[2024/03/28 21:35:30.997][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 366][open_                                        ][0000181C][-ERROR-] recv_reply err
+[2024/03/28 21:35:30.997][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 158][Open                                         ][0000181C][-ERROR-] Failed open device.
+[2024/03/28 21:35:30.998][epsonscan2      ][ipc_interrupt.hpp                            ;  53][stop                                         ][0000181C][-TRACE-] ENTER : stop
+[2024/03/28 21:35:31.997][epsonscan2      ][ipc_interrupt.hpp                            ;  53][stop                                         ][0000181C][-TRACE-] ENTER : stop
+[2024/03/28 21:35:31.998][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 689][kill_                                        ][00001823][-INFO.-] terminating /usr/lib/epsonscan2/non-free-exec/es2intif (port 34715)
+[2024/03/28 21:35:31.998][epsonscan2      ][ipcInterfaceImpl.cpp                         ; 705][kill_                                        ][00001823][-INFO.-] waitpid 0
+[2024/03/28 21:35:31.998][epsonscan2      ][CommandBase.cpp                              ; 577][OpenDevice                                   ][0000181C][-ERROR-] Failed open device.
+[2024/03/28 21:35:31.998][epsonscan2      ][Engine.hpp                                   ;  51][ExchangeError                                ][0000181C][-TRACE-] eErrorCode = 203
+[2024/03/28 21:35:31.998][epsonscan2      ][Controller.cpp                               ; 166][Open                                         ][0000181C][-TRACE-] Leave
+[2024/03/28 21:35:51.984][epsonscan2      ][Controller.cpp                               ; 173][Close                                        ][0000180F][-TRACE-] Enter
+[2024/03/28 21:35:51.984][epsonscan2      ][Controller.cpp                               ;  46][~Controller                                  ][0000180F][-TRACE-] Controller destoroy
+[2024/03/28 21:35:51.984][epsonscan2      ][Scanner.cpp                                  ; 192][~Scanner                                     ][0000180F][-TRACE-] Scanner Destroy
+[2024/03/28 21:35:51.984][epsonscan2      ][ESScanner.cpp                                ;  47][DestroyInstance                              ][0000180F][-TRACE-] ENTER : DestroyInstance
+[2024/03/28 21:35:51.985][epsonscan2      ][ESCIAccessor.cpp                             ; 214][Finalize                                     ][0000180F][-TRACE-] ENTER : Finalize
+[2024/03/28 21:35:51.985][epsonscan2      ][Engine.cpp                                   ; 199][~Engine                                      ][0000180F][-TRACE-] Engine destory
+[2024/03/28 21:35:51.985][epsonscan2      ][ModelInfo.cpp                                ;  33][~ModelInfo                                   ][0000180F][-TRACE-] ModelInfo dispose
